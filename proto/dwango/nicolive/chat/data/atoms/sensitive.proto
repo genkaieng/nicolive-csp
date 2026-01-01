@@ -1,0 +1,4 @@
+syntax = "proto3";
+
+package dwango.nicolive.chat.data.atoms;
+option go_package = "github.com/genkaieng/nicolive-csp/gen/pb";
